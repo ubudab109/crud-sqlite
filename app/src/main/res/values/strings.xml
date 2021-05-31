@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="sumbit">Sumbit</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="todo">TODO</string>
+</resources>
